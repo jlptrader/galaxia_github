@@ -1,2 +1,0 @@
-print("nova versão")
-
